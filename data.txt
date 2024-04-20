@@ -1,0 +1,17 @@
+@player
+x = 207.0
+y = 619.0
+hp = 10
+playerLevel = 1
+playerAttack = 2
+playerBulletCd = 900
+@otherData
+chosePlane = 1
+difficulty = 3
+score = 2
+hitBossScore = 0
+BossIfLive = 0
+bossCome = 0
+plane4Bullet1Live = 0
+plane4Bullet2Live = 0
+plane4Bullet3Live = 0
